@@ -23,6 +23,7 @@ scp ~/Brewfile new-mac:~/
 ```
 
 3. Install Homebrew on new mac
+   [Homebrew](https://brew.sh/)
 
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
