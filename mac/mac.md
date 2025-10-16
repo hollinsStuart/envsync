@@ -38,6 +38,14 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew bundle --file=~/Brewfile
 ```
 
+### `Python`
+
+Uncomment this in `~/.zprofile` to disable system python.
+
+```shell
+export PATH="/Library/Frameworks/Python.framework/Versions/3.10/bin/:$PATH"
+```
+
 ### x-cmd
 
 ### Bagel
